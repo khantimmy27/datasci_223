@@ -1,3 +1,7 @@
+# Collaborators
+
+Taimoor Qureshi 
+
 # How to run
 
 1. Open [exercise.ipynb](exercise.ipynb) Jupyter notebook
